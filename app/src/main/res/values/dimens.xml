@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="task_card_padding">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="task_margin">8dp</dimen>
+    <dimen name="button_margin">4dp</dimen>
+    <dimen name="checkbox_margin">4dp</dimen>
+</resources>
